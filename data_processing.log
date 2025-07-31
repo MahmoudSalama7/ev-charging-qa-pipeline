@@ -1,0 +1,10 @@
+2025-07-30 14:57:54,111 - __main__ - INFO - Starting data processing pipeline
+2025-07-30 14:58:10,552 - src.data_processing.storage - INFO - Saved processed_pdfs_20250730_145810.json (1 records)
+2025-07-30 14:58:10,553 - __main__ - WARNING - No station data found - skipping
+2025-07-30 14:58:10,553 - __main__ - INFO - Pipeline completed successfully
+2025-07-30 15:01:08,175 - __main__ - INFO - Processing PDF...
+2025-07-30 15:01:24,519 - src.data_processing.storage - INFO - Saved processed_pdf_20250730_150124.json (1 records)
+2025-07-30 15:01:24,519 - __main__ - INFO - Processing station data...
+2025-07-30 15:01:25,888 - src.data_processing.station_processor - INFO - Processed 200 stations
+2025-07-30 15:01:25,928 - src.data_processing.storage - INFO - Saved processed_stations_20250730_150125.parquet (200 records)
+2025-07-30 15:01:25,929 - __main__ - INFO - Pipeline completed - PDF: True, Stations: True

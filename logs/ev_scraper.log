@@ -1,0 +1,46 @@
+2025-07-29 18:42:31,034 - INFO - ===== Script Started =====
+2025-07-29 18:42:31,034 - INFO - Fetching EV station data...
+2025-07-29 18:42:34,324 - WARNING - Attempt 1 failed: 422 Client Error: Unprocessable Entity for url: https://developer.nrel.gov/api/alt-fuel-stations/v1.json?api_key=7QSA2rDXUFyqeWpLb6c0ryqaGUwPdsQgoOuj0hNk&fuel_type=ELEC&limit=20000&status=all
+2025-07-29 18:42:42,271 - WARNING - Attempt 2 failed: 422 Client Error: Unprocessable Entity for url: https://developer.nrel.gov/api/alt-fuel-stations/v1.json?api_key=7QSA2rDXUFyqeWpLb6c0ryqaGUwPdsQgoOuj0hNk&fuel_type=ELEC&limit=20000&status=all
+2025-07-29 18:42:55,222 - WARNING - Attempt 3 failed: 422 Client Error: Unprocessable Entity for url: https://developer.nrel.gov/api/alt-fuel-stations/v1.json?api_key=7QSA2rDXUFyqeWpLb6c0ryqaGUwPdsQgoOuj0hNk&fuel_type=ELEC&limit=20000&status=all
+2025-07-29 18:42:55,223 - ERROR - Scraping failed: 422 Client Error: Unprocessable Entity for url: https://developer.nrel.gov/api/alt-fuel-stations/v1.json?api_key=7QSA2rDXUFyqeWpLb6c0ryqaGUwPdsQgoOuj0hNk&fuel_type=ELEC&limit=20000&status=all
+2025-07-29 18:42:55,273 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-29 18:42:55,275 - INFO - Added job "scrape_ev_data" to job store "default"
+2025-07-29 18:42:55,275 - INFO - Scheduler started
+2025-07-29 19:36:54,691 - INFO - ===== Script Started =====
+2025-07-29 19:36:56,554 - INFO - Fetching EV station data...
+2025-07-29 19:37:02,494 - WARNING - Attempt 1 failed: 422 Error: Unknown 422 error
+2025-07-29 19:37:18,442 - WARNING - Attempt 2 failed: 422 Error: Unknown 422 error
+2025-07-29 19:37:44,513 - WARNING - Attempt 3 failed: 422 Error: Unknown 422 error
+2025-07-29 19:37:44,513 - ERROR - Scraping failed: 422 Error: Unknown 422 error
+2025-07-29 19:40:17,219 - INFO - ===== Script Initialized =====
+2025-07-29 19:40:18,769 - INFO - Fetching EV station data with validated parameters...
+2025-07-29 19:40:24,844 - WARNING - Attempt 1 failed: API Validation Error: Unprocessable request
+2025-07-29 19:40:40,788 - WARNING - Attempt 2 failed: API Validation Error: Unprocessable request
+2025-07-29 19:41:06,879 - WARNING - Attempt 3 failed: API Validation Error: Unprocessable request
+2025-07-29 19:41:06,879 - ERROR - Scraping aborted: API Validation Error: Unprocessable request
+2025-07-29 19:43:52,945 - INFO - ===== Script Initialized =====
+2025-07-29 19:43:55,538 - INFO - Attempting API request...
+2025-07-29 19:44:19,688 - INFO - API success: Saved 200 stations
+2025-07-29 19:44:19,703 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-29 19:44:19,703 - INFO - Scheduler started
+2025-07-29 19:44:19,703 - INFO - Added job "scrape_ev_data" to job store "default"
+2025-07-29 19:44:19,703 - INFO - Scheduler started
+2025-07-29 19:50:33,091 - INFO - ===== EV Station Scraper Started =====
+2025-07-29 19:50:35,206 - ERROR - API Key test failed with status 422
+2025-07-29 19:50:35,206 - WARNING - API key invalid - using CSV fallback
+2025-07-29 19:50:35,206 - INFO - Attempting CSV fallback download...
+2025-07-29 19:50:36,634 - ERROR - CSV fallback failed: HTTP Error 404: Not Found
+2025-07-29 19:50:36,647 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-29 19:50:36,647 - INFO - Starting scheduler...
+2025-07-29 19:50:36,649 - INFO - Added job "scrape_ev_data" to job store "default"
+2025-07-29 19:50:36,649 - INFO - Scheduler started
+2025-07-29 19:52:42,452 - INFO - ===== Application Starting =====
+2025-07-29 19:52:42,453 - INFO - === Starting scraping job ===
+2025-07-29 19:52:42,453 - INFO - Fetching EV station data...
+2025-07-29 19:52:45,909 - INFO - Saved 200 stations to data/ev_stations/stations_20250729_195245.parquet
+2025-07-29 19:52:45,911 - INFO - === Job completed ===
+2025-07-29 19:52:45,918 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-29 19:52:45,918 - INFO - Starting scheduler (CTRL+C to exit)...
+2025-07-29 19:52:45,919 - INFO - Added job "run_scraper" to job store "default"
+2025-07-29 19:52:45,919 - INFO - Scheduler started

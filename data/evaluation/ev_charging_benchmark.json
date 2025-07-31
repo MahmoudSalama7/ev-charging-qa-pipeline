@@ -1,0 +1,802 @@
+[
+  {
+    "question": "What are the hours of operation for New York station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "New York",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Which connectors are available at Berlin DC Fast station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Berlin",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at New York Tesla Supercharger station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "New York",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at New York Tesla Supercharger station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "New York",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at New York station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "New York",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Berlin Level 2 station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Berlin",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Does the Tokyo station have DC Fast charging?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Tokyo",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Which connectors are available at Berlin DC Fast station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Los Angeles Tesla Supercharger station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Los Angeles",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at Berlin station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Berlin",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Los Angeles station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Los Angeles",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at Los Angeles station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Los Angeles",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Berlin Level 2 station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at New York station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "New York",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Does the Los Angeles station have DC Fast charging?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Los Angeles",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Does the Tokyo station have Level 2 charging?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Tokyo",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What are the hours of operation for New York station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "New York",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Does the New York station have Tesla Supercharger charging?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "New York",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Which connectors are available at Tokyo Level 2 station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Tokyo",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Berlin station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Berlin",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Which connectors are available at Berlin Tesla Supercharger station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Berlin",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Tokyo station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Tokyo",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Berlin Tesla Supercharger station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Berlin",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "Does the Tokyo station have Level 2 charging?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Tokyo",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "Does the Los Angeles station have Level 2 charging?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at New York station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "New York",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Los Angeles Level 2 station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at Berlin station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Berlin",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at New York station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "New York",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Which connectors are available at Tokyo Tesla Supercharger station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Tokyo",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Tokyo station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Tokyo",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Tokyo DC Fast station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Tokyo",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Does the Los Angeles station have Tesla Supercharger charging?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Los Angeles",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Does the New York station have Level 2 charging?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "New York",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at New York station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "New York",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Los Angeles station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Los Angeles",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Los Angeles station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Which connectors are available at New York DC Fast station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "New York",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Los Angeles station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Los Angeles",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Berlin station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Berlin station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Berlin station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Berlin",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "Does the Los Angeles station have DC Fast charging?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Los Angeles",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for New York station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "New York",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What are the hours of operation for New York station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "New York",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Berlin station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at Tokyo station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Tokyo",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Tokyo station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Tokyo",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Berlin Tesla Supercharger station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Does the New York station have DC Fast charging?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "New York",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at Berlin station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Berlin station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Berlin",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at New York station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "New York",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Tokyo station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Tokyo",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Los Angeles station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Los Angeles",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at Tokyo station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Tokyo",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at Tokyo station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Tokyo",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What type of charging is available at Tokyo station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Tokyo",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at New York DC Fast station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "New York",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Does the Los Angeles station have Level 2 charging?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Tokyo station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Tokyo",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Does the New York station have DC Fast charging?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "New York",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at New York station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "New York",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Berlin station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Los Angeles station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Los Angeles",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for New York station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "New York",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Los Angeles station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "Does the Berlin station have Level 2 charging?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Berlin station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Berlin",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Which connectors are available at Berlin Level 2 station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at New York station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "New York",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Which connectors are available at Berlin Tesla Supercharger station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Berlin",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What type of charging is available at New York station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "New York",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Tokyo DC Fast station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Tokyo",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Does the Tokyo station have DC Fast charging?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Tokyo",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Berlin station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Berlin",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Berlin station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Tokyo station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Tokyo",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Tokyo station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Tokyo",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at New York station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "New York",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Los Angeles station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Los Angeles",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Berlin station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Does the Berlin station have Level 2 charging?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Berlin",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Tokyo station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Tokyo",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Los Angeles station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What type of charging is available at New York station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "New York",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "What are the hours of operation for Los Angeles station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Does the Los Angeles station have Level 2 charging?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Los Angeles DC Fast station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Los Angeles",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Does the New York station have Tesla Supercharger charging?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "New York",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Los Angeles Level 2 station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Los Angeles station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Los Angeles",
+      "payment": "Credit Card"
+    }
+  },
+  {
+    "question": "What type of charging is available at New York station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "New York",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Does the Los Angeles station have Level 2 charging?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Which connectors are available at Berlin DC Fast station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Berlin",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Los Angeles DC Fast station?",
+    "context": {
+      "station_type": "DC Fast",
+      "location": "Los Angeles",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "Which connectors are available at Los Angeles Level 2 station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "RFID Card"
+    }
+  },
+  {
+    "question": "Which connectors are available at Los Angeles Level 2 station?",
+    "context": {
+      "station_type": "Level 2",
+      "location": "Los Angeles",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What payment methods are accepted at Berlin station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Berlin",
+      "payment": "Mobile App"
+    }
+  },
+  {
+    "question": "What type of charging is available at Tokyo station?",
+    "context": {
+      "station_type": "Tesla Supercharger",
+      "location": "Tokyo",
+      "payment": "Mobile App"
+    }
+  }
+]

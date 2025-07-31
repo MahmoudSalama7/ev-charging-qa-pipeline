@@ -1,0 +1,4459 @@
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What types of EV connectors support fast charging?
+
+### Context:
+GPT-generated
+
+### Response:
+CCS and CHAdeMO connectors support fast charging.
+
+Text to analyze:
+--- PAGE 1 ---
+Global EV Outlook 2023 Catching up with climate ambitions
+
+--- PAGE 2 ---
+The IEA examines the full spectrum of energy issues including oil, gas and coal supply and demand, renewable energy technologies, electricity markets, energy efficiency, access to energy, demand side management and much more. Through its work, the IEA advocates policies that will enhance the reliability, affordability and sustainability of energy in its 31 member countries, 11 association countries and beyond. This publication and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or area. Source: IEA. International Energy Agency Website: www.iea.orgIEA member countries: Australia Austria Belgium Canada Czech Republic Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Japan Korea Lithuania Luxembourg Mexico Netherlands New Zealand Norway Poland Portugal Slovak Republic Spain Sweden Switzerland Republic of Türkiye United Kingdom United States The European Commission also participates in the work of the IEAIEA association countries: Argentina Brazil China Egypt India Indonesia Morocco Singapore South Africa Thailand UkraineINTERNATIONAL ENERGY AGENCY
+
+--- PAGE 3 ---
+Global EV Outlook 2023 Abstract Catching up with climate ambitions PAGE  3 IEA. CC BY 4.0. Abstract The Global EV Outlook is an annual publication that identifies an
+
+Generate 5 Q&A pairs:
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What types of EV connectors support fast charging?
+
+### Context:
+GPT-generated
+
+### Response:
+CCS and CHAdeMO connectors support fast charging.
+
+Text to analyze:
+
+--- PAGE 1 ---
+
+Global EV Outlook 2023 Catching up with climate ambitions
+
+--- PAGE 2 ---
+
+The IEA examines the full spectrum of energy issues including oil, gas and coal supply and demand, renewable energy technologies, electricity markets, energy efficiency, access to energy, demand side management and much more. Through its work, the IEA advocates policies that will enhance the reliability, affordability and sustainability of energy in its 31 member countries, 11 association countries and beyond. This publication and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or area. Source: IEA. International Energy Agency Website: www.iea.orgIEA member countries: Australia Austria Belgium Canada Czech Republic Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Japan Korea Lithuania Luxembourg Mexico Netherlands New Zealand Norway Poland Portugal Slovakia Republic of Türkiye United Kingdom United States The European Commission also participates in the work of the IEAIEA association countries: Argentina Brazil China Egypt India Indonesia Morocco Singapore South Africa Thailand UkraineINTERNATIONAL ENERGY AGENCY
+
+--- PAGE 4 ---
+
+Global EV Outlook 2023 Catching up with climate ambitions
+
+--- PAGE 5 ---
+
+The IEA examines the full spectrum of energy issues including oil, gas and coal supply and demand, renewable energy technologies, electricity markets, energy efficiency, access to energy, demand side management and much more. Through its work, the IEA advocates policies that will enhance the reliability, affordability and sustainability of energy in its 31 member countries, 11 association countries and beyond. This publication and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or area. Source: IEA. International Energy Agency Website: www.iea.orgIEA member countries: Australia Austria Belgium Canada Czech Republic Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Japan Korea Lithuania Luxembourg Mexico Netherlands New Zealand Norway Poland Portugal Slovak Republic Spain Sweden Switzerland Republic of Türkiye United Kingdom United States The European Commission also participates in the work of the IEAIEA association countries: Argentina Brazil China Egypt India Indonesia Morocco Singapore South Africa Thailand UkraineINTERNATIONAL ENERGY AGENCY
+
+--- PAGE 6 ---
+
+Global EV Outlook 2023 Catching up with climate ambitions
+
+--- PAGE 7 ---
+
+The IEA examines the full spectrum of energy issues including oil, gas and coal supply and demand, renewable energy technologies, electricity markets, energy efficiency, access to energy, demand side management and much more. Through its work, the IEA advocates policies that will enhance the reliability, affordability and sustainability of energy in
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Truesdale Center?
+
+### Context:
+Station LADWP - Truesdale Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Truesdale Center?
+
+### Context:
+Station ID: 0
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Los Angeles Convention Center?
+
+### Context:
+Station Los Angeles Convention Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Los Angeles Convention Center?
+
+### Context:
+Station ID: 1
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - John Ferraro Building?
+
+### Context:
+Station LADWP - John Ferraro Building
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - John Ferraro Building?
+
+### Context:
+Station ID: 2
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Haynes Power Plant?
+
+### Context:
+Station LADWP - Haynes Power Plant
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Haynes Power Plant?
+
+### Context:
+Station ID: 3
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Harbor Generating Station?
+
+### Context:
+Station LADWP - Harbor Generating Station
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Harbor Generating Station?
+
+### Context:
+Station ID: 4
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Sylmar West?
+
+### Context:
+Station LADWP - Sylmar West
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Sylmar West?
+
+### Context:
+Station ID: 5
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - EV Service Center?
+
+### Context:
+Station LADWP - EV Service Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - EV Service Center?
+
+### Context:
+Station ID: 6
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Fairfax Center?
+
+### Context:
+Station LADWP - Fairfax Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Fairfax Center?
+
+### Context:
+Station ID: 7
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Palmetto Center?
+
+### Context:
+Station LADWP - Palmetto Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Palmetto Center?
+
+### Context:
+Station ID: 8
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Scripps Green Hospital?
+
+### Context:
+Station Scripps Green Hospital
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Scripps Green Hospital?
+
+### Context:
+Station ID: 9
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Galpin Motors?
+
+### Context:
+Station Galpin Motors
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Galpin Motors?
+
+### Context:
+Station ID: 10
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Galleria at Tyler?
+
+### Context:
+Station Galleria at Tyler
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Galleria at Tyler?
+
+### Context:
+Station ID: 11
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Pasadena - Holly Street Garage?
+
+### Context:
+Station City of Pasadena - Holly Street Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Pasadena - Holly Street Garage?
+
+### Context:
+Station ID: 12
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Pasadena - De Lacey Garage?
+
+### Context:
+Station City of Pasadena - De Lacey Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Pasadena - De Lacey Garage?
+
+### Context:
+Station ID: 13
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Pasadena - Schoolhouse Garage?
+
+### Context:
+Station City of Pasadena - Schoolhouse Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Pasadena - Schoolhouse Garage?
+
+### Context:
+Station ID: 14
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Bristol Farms?
+
+### Context:
+Station Bristol Farms
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Bristol Farms?
+
+### Context:
+Station ID: 15
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Hyatt Regency Long Beach?
+
+### Context:
+Station Hyatt Regency Long Beach
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Hyatt Regency Long Beach?
+
+### Context:
+Station ID: 16
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Los Angeles International Airport (LAX) - Lot 6?
+
+### Context:
+Station Los Angeles International Airport (LAX) - Lot 6
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Los Angeles International Airport (LAX) - Lot 6?
+
+### Context:
+Station ID: 17
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Northridge Fashion Center East Garage Lower Level?
+
+### Context:
+Station Northridge Fashion Center East Garage Lower Level
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Northridge Fashion Center East Garage Lower Level?
+
+### Context:
+Station ID: 18
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Courtyard Marriott - Oxnard Ventura?
+
+### Context:
+Station Courtyard Marriott - Oxnard Ventura
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Courtyard Marriott - Oxnard Ventura?
+
+### Context:
+Station ID: 19
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Hilton - Palm Springs?
+
+### Context:
+Station Hilton - Palm Springs
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Hilton - Palm Springs?
+
+### Context:
+Station ID: 20
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Inland Empire Foods?
+
+### Context:
+Station Inland Empire Foods
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Inland Empire Foods?
+
+### Context:
+Station ID: 21
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Sacramento International Airport - Daily A Lot?
+
+### Context:
+Station Sacramento International Airport - Daily A Lot
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Sacramento International Airport - Daily A Lot?
+
+### Context:
+Station ID: 22
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Santa Monica - Airport?
+
+### Context:
+Station City of Santa Monica - Airport
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Santa Monica - Airport?
+
+### Context:
+Station ID: 23
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Santa Monica - Pier?
+
+### Context:
+Station City of Santa Monica - Pier
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Santa Monica - Pier?
+
+### Context:
+Station ID: 24
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Westfield Parking Garage 1st Floor?
+
+### Context:
+Station Westfield Parking Garage 1st Floor
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Westfield Parking Garage 1st Floor?
+
+### Context:
+Station ID: 25
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Universal City Hilton?
+
+### Context:
+Station Universal City Hilton
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Universal City Hilton?
+
+### Context:
+Station ID: 26
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Office Max - Home Depot?
+
+### Context:
+Station Office Max - Home Depot
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Office Max - Home Depot?
+
+### Context:
+Station ID: 27
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Hyatt at Fisherman's Wharf?
+
+### Context:
+Station Hyatt at Fisherman's Wharf
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Hyatt at Fisherman's Wharf?
+
+### Context:
+Station ID: 28
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Arden Fair Mall?
+
+### Context:
+Station Arden Fair Mall
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Arden Fair Mall?
+
+### Context:
+Station ID: 29
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Palace Hotel?
+
+### Context:
+Station Palace Hotel
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Palace Hotel?
+
+### Context:
+Station ID: 30
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Mark Hopkins InterContinental Hotel?
+
+### Context:
+Station Mark Hopkins InterContinental Hotel
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Mark Hopkins InterContinental Hotel?
+
+### Context:
+Station ID: 31
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at California State University - Northridge?
+
+### Context:
+Station California State University - Northridge
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at California State University - Northridge?
+
+### Context:
+Station ID: 32
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at California State University - Northridge?
+
+### Context:
+Station California State University - Northridge
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at California State University - Northridge?
+
+### Context:
+Station ID: 33
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at California State University - Northridge?
+
+### Context:
+Station California State University - Northridge
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at California State University - Northridge?
+
+### Context:
+Station ID: 34
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Los Angeles Harbor Department Headquarters?
+
+### Context:
+Station Los Angeles Harbor Department Headquarters
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Los Angeles Harbor Department Headquarters?
+
+### Context:
+Station ID: 35
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Getty Center?
+
+### Context:
+Station Getty Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Getty Center?
+
+### Context:
+Station ID: 36
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LA County DPR Arboretum?
+
+### Context:
+Station LA County DPR Arboretum
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LA County DPR Arboretum?
+
+### Context:
+Station ID: 37
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Glendora - City Hall?
+
+### Context:
+Station City of Glendora - City Hall
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Glendora - City Hall?
+
+### Context:
+Station ID: 38
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at DoubleTree Hotel - Los Angeles - Westside?
+
+### Context:
+Station DoubleTree Hotel - Los Angeles - Westside
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at DoubleTree Hotel - Los Angeles - Westside?
+
+### Context:
+Station ID: 39
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Helms Bakery Building?
+
+### Context:
+Station Helms Bakery Building
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Helms Bakery Building?
+
+### Context:
+Station ID: 40
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Westfield MainPlace Mall?
+
+### Context:
+Station Westfield MainPlace Mall
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Westfield MainPlace Mall?
+
+### Context:
+Station ID: 41
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at California State University - Channel Islands?
+
+### Context:
+Station California State University - Channel Islands
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at California State University - Channel Islands?
+
+### Context:
+Station ID: 42
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Brea Downtown Parking?
+
+### Context:
+Station Brea Downtown Parking
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Brea Downtown Parking?
+
+### Context:
+Station ID: 43
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Home Depot?
+
+### Context:
+Station Home Depot
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Home Depot?
+
+### Context:
+Station ID: 44
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Lake Casitas Municipal Water District - Recreational Area?
+
+### Context:
+Station Lake Casitas Municipal Water District - Recreational Area
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Lake Casitas Municipal Water District - Recreational Area?
+
+### Context:
+Station ID: 45
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at San Dimas Park & Ride?
+
+### Context:
+Station San Dimas Park & Ride
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at San Dimas Park & Ride?
+
+### Context:
+Station ID: 46
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Ventura County Government Center?
+
+### Context:
+Station Ventura County Government Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Ventura County Government Center?
+
+### Context:
+Station ID: 47
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Ventura County Air Pollution Control District?
+
+### Context:
+Station Ventura County Air Pollution Control District
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Ventura County Air Pollution Control District?
+
+### Context:
+Station ID: 48
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Pacific View Mall?
+
+### Context:
+Station Pacific View Mall
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Pacific View Mall?
+
+### Context:
+Station ID: 49
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Scattergood Generating Facility?
+
+### Context:
+Station LADWP - Scattergood Generating Facility
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Scattergood Generating Facility?
+
+### Context:
+Station ID: 50
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LA County DPW Baldwin Park?
+
+### Context:
+Station LA County DPW Baldwin Park
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LA County DPW Baldwin Park?
+
+### Context:
+Station ID: 51
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LA County DPW Imperial?
+
+### Context:
+Station LA County DPW Imperial
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LA County DPW Imperial?
+
+### Context:
+Station ID: 52
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at University of California - Davis Extension - Lot 80?
+
+### Context:
+Station University of California - Davis Extension - Lot 80
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at University of California - Davis Extension - Lot 80?
+
+### Context:
+Station ID: 53
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at San Luis Obispo County Air Pollution Control District?
+
+### Context:
+Station San Luis Obispo County Air Pollution Control District
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at San Luis Obispo County Air Pollution Control District?
+
+### Context:
+Station ID: 54
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Wilmington District Yard?
+
+### Context:
+Station LADWP - Wilmington District Yard
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Wilmington District Yard?
+
+### Context:
+Station ID: 55
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Fair Oaks - Orangevale - Community Library?
+
+### Context:
+Station Fair Oaks - Orangevale - Community Library
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Fair Oaks - Orangevale - Community Library?
+
+### Context:
+Station ID: 56
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Sutter Galleria Mall - University of California - Davis Extension?
+
+### Context:
+Station Sutter Galleria Mall - University of California - Davis Extension
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Sutter Galleria Mall - University of California - Davis Extension?
+
+### Context:
+Station ID: 57
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at North Highlands Library?
+
+### Context:
+Station North Highlands Library
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at North Highlands Library?
+
+### Context:
+Station ID: 58
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Gateway Oaks Metro Center?
+
+### Context:
+Station Gateway Oaks Metro Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Gateway Oaks Metro Center?
+
+### Context:
+Station ID: 59
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at University of California - Davis - Medical Center?
+
+### Context:
+Station University of California - Davis - Medical Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at University of California - Davis - Medical Center?
+
+### Context:
+Station ID: 60
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Mosquito Road Park and Ride?
+
+### Context:
+Station Mosquito Road Park and Ride
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Mosquito Road Park and Ride?
+
+### Context:
+Station ID: 61
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Vacaville - Cultural Center?
+
+### Context:
+Station City of Vacaville - Cultural Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Vacaville - Cultural Center?
+
+### Context:
+Station ID: 62
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Stars Recreation Center?
+
+### Context:
+Station Stars Recreation Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Stars Recreation Center?
+
+### Context:
+Station ID: 63
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Vacaville - Regional Transport Center?
+
+### Context:
+Station City of Vacaville - Regional Transport Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Vacaville - Regional Transport Center?
+
+### Context:
+Station ID: 64
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Office of Housing & Redevelopment?
+
+### Context:
+Station Office of Housing & Redevelopment
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Office of Housing & Redevelopment?
+
+### Context:
+Station ID: 65
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at KUIC Radio - Parking Lot?
+
+### Context:
+Station KUIC Radio - Parking Lot
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at KUIC Radio - Parking Lot?
+
+### Context:
+Station ID: 66
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Vacaville - City Hall?
+
+### Context:
+Station City of Vacaville - City Hall
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Vacaville - City Hall?
+
+### Context:
+Station ID: 67
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Citrus Heights City Hall?
+
+### Context:
+Station Citrus Heights City Hall
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Citrus Heights City Hall?
+
+### Context:
+Station ID: 68
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Pitt School Plaza?
+
+### Context:
+Station Pitt School Plaza
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Pitt School Plaza?
+
+### Context:
+Station ID: 69
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at El Dorado County Government Center?
+
+### Context:
+Station El Dorado County Government Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at El Dorado County Government Center?
+
+### Context:
+Station ID: 70
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at El Dorado Transit Park & Ride?
+
+### Context:
+Station El Dorado Transit Park & Ride
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at El Dorado Transit Park & Ride?
+
+### Context:
+Station ID: 71
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Elk Grove Kia?
+
+### Context:
+Station Elk Grove Kia
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Elk Grove Kia?
+
+### Context:
+Station ID: 72
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at CVS Pharmacy?
+
+### Context:
+Station CVS Pharmacy
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at CVS Pharmacy?
+
+### Context:
+Station ID: 73
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Carmichael Library?
+
+### Context:
+Station Carmichael Library
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Carmichael Library?
+
+### Context:
+Station ID: 74
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Burlington International Airport?
+
+### Context:
+Station Burlington International Airport
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Burlington International Airport?
+
+### Context:
+Station ID: 75
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Rio Vista City Hall?
+
+### Context:
+Station Rio Vista City Hall
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Rio Vista City Hall?
+
+### Context:
+Station ID: 76
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Fairfield City Hall?
+
+### Context:
+Station Fairfield City Hall
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Fairfield City Hall?
+
+### Context:
+Station ID: 77
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Solano Community College?
+
+### Context:
+Station Solano Community College
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Solano Community College?
+
+### Context:
+Station ID: 78
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Vallejo Ferry Terminal?
+
+### Context:
+Station Vallejo Ferry Terminal
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Vallejo Ferry Terminal?
+
+### Context:
+Station ID: 79
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Los Angeles International Airport (LAX) - Lot 1?
+
+### Context:
+Station Los Angeles International Airport (LAX) - Lot 1
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Los Angeles International Airport (LAX) - Lot 1?
+
+### Context:
+Station ID: 80
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Vacaville - Police Headquarters?
+
+### Context:
+Station City of Vacaville - Police Headquarters
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Vacaville - Police Headquarters?
+
+### Context:
+Station ID: 81
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Burlington International Airport?
+
+### Context:
+Station Burlington International Airport
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Burlington International Airport?
+
+### Context:
+Station ID: 82
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Boylston?
+
+### Context:
+Station LADWP - Boylston
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Boylston?
+
+### Context:
+Station ID: 83
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Central District?
+
+### Context:
+Station LADWP - Central District
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Central District?
+
+### Context:
+Station ID: 84
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Lincoln Heights District?
+
+### Context:
+Station LADWP - Lincoln Heights District
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Lincoln Heights District?
+
+### Context:
+Station ID: 85
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Receiving Station C?
+
+### Context:
+Station LADWP - Receiving Station C
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Receiving Station C?
+
+### Context:
+Station ID: 86
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Valley Center Admin Lot?
+
+### Context:
+Station LADWP - Valley Center Admin Lot
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Valley Center Admin Lot?
+
+### Context:
+Station ID: 87
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LADWP - Valley Generating Station?
+
+### Context:
+Station LADWP - Valley Generating Station
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LADWP - Valley Generating Station?
+
+### Context:
+Station ID: 88
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Lacey - City Hall Parking?
+
+### Context:
+Station City of Lacey - City Hall Parking
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Lacey - City Hall Parking?
+
+### Context:
+Station ID: 89
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Oregon Museum of Science and Industry (OMSI) - South Parking Lot?
+
+### Context:
+Station Oregon Museum of Science and Industry (OMSI) - South Parking Lot
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Oregon Museum of Science and Industry (OMSI) - South Parking Lot?
+
+### Context:
+Station ID: 90
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Nut Tree Village?
+
+### Context:
+Station Nut Tree Village
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Nut Tree Village?
+
+### Context:
+Station ID: 91
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at 4th and G Plaza Public Parking Garage?
+
+### Context:
+Station 4th and G Plaza Public Parking Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at 4th and G Plaza Public Parking Garage?
+
+### Context:
+Station ID: 92
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Davis Amtrak Station?
+
+### Context:
+Station Davis Amtrak Station
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Davis Amtrak Station?
+
+### Context:
+Station ID: 93
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at University of California - Davis - Quad Parking Structure?
+
+### Context:
+Station University of California - Davis - Quad Parking Structure
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at University of California - Davis - Quad Parking Structure?
+
+### Context:
+Station ID: 94
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at University Covenant Church?
+
+### Context:
+Station University Covenant Church
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at University Covenant Church?
+
+### Context:
+Station ID: 95
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Wildhorse Golf Club?
+
+### Context:
+Station Wildhorse Golf Club
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Wildhorse Golf Club?
+
+### Context:
+Station ID: 96
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Lakewood Center Mall?
+
+### Context:
+Station Lakewood Center Mall
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Lakewood Center Mall?
+
+### Context:
+Station ID: 97
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Golden Gate Ferry Terminal?
+
+### Context:
+Station Golden Gate Ferry Terminal
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Golden Gate Ferry Terminal?
+
+### Context:
+Station ID: 98
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Oakland International Airport - Daily Lot?
+
+### Context:
+Station Oakland International Airport - Daily Lot
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Oakland International Airport - Daily Lot?
+
+### Context:
+Station ID: 99
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Seattle-Tacoma International Airport - General Parking?
+
+### Context:
+Station Seattle-Tacoma International Airport - General Parking
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Seattle-Tacoma International Airport - General Parking?
+
+### Context:
+Station ID: 100
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Champaign - Hill Street Parking Deck?
+
+### Context:
+Station City of Champaign - Hill Street Parking Deck
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Champaign - Hill Street Parking Deck?
+
+### Context:
+Station ID: 101
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Discovery Center of Idaho?
+
+### Context:
+Station Discovery Center of Idaho
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Discovery Center of Idaho?
+
+### Context:
+Station ID: 102
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Keizer - City Hall?
+
+### Context:
+Station City of Keizer - City Hall
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Keizer - City Hall?
+
+### Context:
+Station ID: 103
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Nike - LA Garage?
+
+### Context:
+Station Nike - LA Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Nike - LA Garage?
+
+### Context:
+Station ID: 104
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Fairfield Transportation Center?
+
+### Context:
+Station Fairfield Transportation Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Fairfield Transportation Center?
+
+### Context:
+Station ID: 105
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LINCOLN CITY TAFT DUAL 1?
+
+### Context:
+Station LINCOLN CITY TAFT DUAL 1
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LINCOLN CITY TAFT DUAL 1?
+
+### Context:
+Station ID: 106
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at New York Institute of Technology - Old Westbury Solar Carport Station?
+
+### Context:
+Station New York Institute of Technology - Old Westbury Solar Carport Station
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at New York Institute of Technology - Old Westbury Solar Carport Station?
+
+### Context:
+Station ID: 107
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at MGE WILLY ST E?
+
+### Context:
+Station MGE WILLY ST E
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at MGE WILLY ST E?
+
+### Context:
+Station ID: 108
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at LBCC LBCC DUAL 2?
+
+### Context:
+Station LBCC LBCC DUAL 2
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at LBCC LBCC DUAL 2?
+
+### Context:
+Station ID: 109
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at OEG?
+
+### Context:
+Station OEG
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at OEG?
+
+### Context:
+Station ID: 110
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Home Depot?
+
+### Context:
+Station Home Depot
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Home Depot?
+
+### Context:
+Station ID: 111
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at San Luis Obispo Promenade - Bed Bath & Beyond?
+
+### Context:
+Station San Luis Obispo Promenade - Bed Bath & Beyond
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at San Luis Obispo Promenade - Bed Bath & Beyond?
+
+### Context:
+Station ID: 112
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at New York State Energy Research Development Authority - Headquarters?
+
+### Context:
+Station New York State Energy Research Development Authority - Headquarters
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at New York State Energy Research Development Authority - Headquarters?
+
+### Context:
+Station ID: 113
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Saratoga Technology & Energy Park?
+
+### Context:
+Station Saratoga Technology & Energy Park
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Saratoga Technology & Energy Park?
+
+### Context:
+Station ID: 114
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Avista Corp?
+
+### Context:
+Station Avista Corp
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Avista Corp?
+
+### Context:
+Station ID: 115
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Steam Plant Parking?
+
+### Context:
+Station Steam Plant Parking
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Steam Plant Parking?
+
+### Context:
+Station ID: 116
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Kum & Go #4110?
+
+### Context:
+Station Kum & Go #4110
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Kum & Go #4110?
+
+### Context:
+Station ID: 117
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Kum & Go #570?
+
+### Context:
+Station Kum & Go #570
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Kum & Go #570?
+
+### Context:
+Station ID: 118
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Element Hotels - Ewing?
+
+### Context:
+Station Element Hotels - Ewing
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Element Hotels - Ewing?
+
+### Context:
+Station ID: 119
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Lane Community College?
+
+### Context:
+Station Lane Community College
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Lane Community College?
+
+### Context:
+Station ID: 120
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at BROOKFIELD PROP 300 CLAY STAT1?
+
+### Context:
+Station BROOKFIELD PROP 300 CLAY STAT1
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at BROOKFIELD PROP 300 CLAY STAT1?
+
+### Context:
+Station ID: 121
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Hudson Valley Community College - TEC-SMART Building?
+
+### Context:
+Station Hudson Valley Community College - TEC-SMART Building
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Hudson Valley Community College - TEC-SMART Building?
+
+### Context:
+Station ID: 122
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Goleta Mechanics Bank?
+
+### Context:
+Station Goleta Mechanics Bank
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Goleta Mechanics Bank?
+
+### Context:
+Station ID: 123
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Spartanburg - Municipal Parking Garage?
+
+### Context:
+Station City of Spartanburg - Municipal Parking Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Spartanburg - Municipal Parking Garage?
+
+### Context:
+Station ID: 124
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Spartanburg - Municipal Parking Garage?
+
+### Context:
+Station City of Spartanburg - Municipal Parking Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Spartanburg - Municipal Parking Garage?
+
+### Context:
+Station ID: 125
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Union Town Hall?
+
+### Context:
+Station City of Union Town Hall
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Union Town Hall?
+
+### Context:
+Station ID: 126
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Whole Foods Market?
+
+### Context:
+Station Whole Foods Market
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Whole Foods Market?
+
+### Context:
+Station ID: 127
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Propark America - Omni Hotel Chapel Square Garage?
+
+### Context:
+Station Propark America - Omni Hotel Chapel Square Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Propark America - Omni Hotel Chapel Square Garage?
+
+### Context:
+Station ID: 128
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at New London Parking Authority - Water Street Public Parking Garage?
+
+### Context:
+Station New London Parking Authority - Water Street Public Parking Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at New London Parking Authority - Water Street Public Parking Garage?
+
+### Context:
+Station ID: 129
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Park 'N Fly - Bradley International Airport?
+
+### Context:
+Station Park 'N Fly - Bradley International Airport
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Park 'N Fly - Bradley International Airport?
+
+### Context:
+Station ID: 130
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at GTC HORIZON MAINLOT?
+
+### Context:
+Station GTC HORIZON MAINLOT
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at GTC HORIZON MAINLOT?
+
+### Context:
+Station ID: 131
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at MGE GREENWAY STAT?
+
+### Context:
+Station MGE GREENWAY STAT
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at MGE GREENWAY STAT?
+
+### Context:
+Station ID: 132
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Baker Electric Building?
+
+### Context:
+Station Baker Electric Building
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Baker Electric Building?
+
+### Context:
+Station ID: 133
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at McDonald's?
+
+### Context:
+Station McDonald's
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at McDonald's?
+
+### Context:
+Station ID: 134
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Agilix Solutions?
+
+### Context:
+Station Agilix Solutions
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Agilix Solutions?
+
+### Context:
+Station ID: 135
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at HILLSBORO OR MAIN ST 1?
+
+### Context:
+Station HILLSBORO OR MAIN ST 1
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at HILLSBORO OR MAIN ST 1?
+
+### Context:
+Station ID: 136
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at HILLSBORO OR ITF EV-8?
+
+### Context:
+Station HILLSBORO OR ITF EV-8
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at HILLSBORO OR ITF EV-8?
+
+### Context:
+Station ID: 137
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at BELLEVUE BELLEVUE CH 1?
+
+### Context:
+Station BELLEVUE BELLEVUE CH 1
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at BELLEVUE BELLEVUE CH 1?
+
+### Context:
+Station ID: 138
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Oregon Museum of Science and Industry (OMSI) - North Parking Lot?
+
+### Context:
+Station Oregon Museum of Science and Industry (OMSI) - North Parking Lot
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Oregon Museum of Science and Industry (OMSI) - North Parking Lot?
+
+### Context:
+Station ID: 139
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Liberty Park?
+
+### Context:
+Station Liberty Park
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Liberty Park?
+
+### Context:
+Station ID: 140
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at The Hartford Financial Services Group?
+
+### Context:
+Station The Hartford Financial Services Group
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at The Hartford Financial Services Group?
+
+### Context:
+Station ID: 141
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at JCCC MTC?
+
+### Context:
+Station JCCC MTC
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at JCCC MTC?
+
+### Context:
+Station ID: 142
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Courtyard Marriott - Hadley Amherst?
+
+### Context:
+Station Courtyard Marriott - Hadley Amherst
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Courtyard Marriott - Hadley Amherst?
+
+### Context:
+Station ID: 143
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Delray Beach - Banker's Row Parking Lot?
+
+### Context:
+Station City of Delray Beach - Banker's Row Parking Lot
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Delray Beach - Banker's Row Parking Lot?
+
+### Context:
+Station ID: 144
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at KING COUNTY DES ISSAQUAH P&R 2?
+
+### Context:
+Station KING COUNTY DES ISSAQUAH P&R 2
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at KING COUNTY DES ISSAQUAH P&R 2?
+
+### Context:
+Station ID: 145
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at King County - King County Van Distribution Center?
+
+### Context:
+Station King County - King County Van Distribution Center
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at King County - King County Van Distribution Center?
+
+### Context:
+Station ID: 146
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Eversource?
+
+### Context:
+Station Eversource
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Eversource?
+
+### Context:
+Station ID: 147
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at SEAPORT GARAGE EAST GARAGE2 P1?
+
+### Context:
+Station SEAPORT GARAGE EAST GARAGE2 P1
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at SEAPORT GARAGE EAST GARAGE2 P1?
+
+### Context:
+Station ID: 148
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Columbia - Cannon Garage?
+
+### Context:
+Station City of Columbia - Cannon Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Columbia - Cannon Garage?
+
+### Context:
+Station ID: 149
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Columbia - Washington Street Garage?
+
+### Context:
+Station City of Columbia - Washington Street Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Columbia - Washington Street Garage?
+
+### Context:
+Station ID: 150
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Columbia - Arsenal Hill Garage?
+
+### Context:
+Station City of Columbia - Arsenal Hill Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Columbia - Arsenal Hill Garage?
+
+### Context:
+Station ID: 151
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Columbia - Lincoln Street Garage?
+
+### Context:
+Station City of Columbia - Lincoln Street Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Columbia - Lincoln Street Garage?
+
+### Context:
+Station ID: 152
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Greenville Zoo?
+
+### Context:
+Station Greenville Zoo
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Greenville Zoo?
+
+### Context:
+Station ID: 153
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Greenville - Poinsett Garage?
+
+### Context:
+Station City of Greenville - Poinsett Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Greenville - Poinsett Garage?
+
+### Context:
+Station ID: 154
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Greenville - Spring Street Garage?
+
+### Context:
+Station City of Greenville - Spring Street Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Greenville - Spring Street Garage?
+
+### Context:
+Station ID: 155
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Greenville - Church Street Garage?
+
+### Context:
+Station City of Greenville - Church Street Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Greenville - Church Street Garage?
+
+### Context:
+Station ID: 156
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Columbia - Park Street Garage?
+
+### Context:
+Station City of Columbia - Park Street Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Columbia - Park Street Garage?
+
+### Context:
+Station ID: 157
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Greenville - Commons Garage?
+
+### Context:
+Station City of Greenville - Commons Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Greenville - Commons Garage?
+
+### Context:
+Station ID: 158
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Liberty Square Garage?
+
+### Context:
+Station Liberty Square Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Liberty Square Garage?
+
+### Context:
+Station ID: 159
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Greenville - Richardson Garage?
+
+### Context:
+Station City of Greenville - Richardson Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Greenville - Richardson Garage?
+
+### Context:
+Station ID: 160
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Timken Sports Complex?
+
+### Context:
+Station Timken Sports Complex
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Timken Sports Complex?
+
+### Context:
+Station ID: 161
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Lockhart Power?
+
+### Context:
+Station Lockhart Power
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Lockhart Power?
+
+### Context:
+Station ID: 162
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Toyota of Santa Monica?
+
+### Context:
+Station Toyota of Santa Monica
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Toyota of Santa Monica?
+
+### Context:
+Station ID: 163
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Parc 55 Hotel?
+
+### Context:
+Station Parc 55 Hotel
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Parc 55 Hotel?
+
+### Context:
+Station ID: 164
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Beach & Hyde Garage?
+
+### Context:
+Station Beach & Hyde Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Beach & Hyde Garage?
+
+### Context:
+Station ID: 165
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Santa Monica - Civic Parking Garage?
+
+### Context:
+Station City of Santa Monica - Civic Parking Garage
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Santa Monica - Civic Parking Garage?
+
+### Context:
+Station ID: 166
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Denver International Airport - Canopy Airport Parking?
+
+### Context:
+Station Denver International Airport - Canopy Airport Parking
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Denver International Airport - Canopy Airport Parking?
+
+### Context:
+Station ID: 167
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Charles Hotel - Harvard Square?
+
+### Context:
+Station Charles Hotel - Harvard Square
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Charles Hotel - Harvard Square?
+
+### Context:
+Station ID: 168
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Peaches Bed & Breakfast?
+
+### Context:
+Station Peaches Bed & Breakfast
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Peaches Bed & Breakfast?
+
+### Context:
+Station ID: 169
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City Hall Annex - Town of Normal?
+
+### Context:
+Station City Hall Annex - Town of Normal
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City Hall Annex - Town of Normal?
+
+### Context:
+Station ID: 170
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at College Avenue Parking Deck?
+
+### Context:
+Station College Avenue Parking Deck
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at College Avenue Parking Deck?
+
+### Context:
+Station ID: 171
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at 3M?
+
+### Context:
+Station 3M
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at 3M?
+
+### Context:
+Station ID: 172
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at UWB CASCADIA CC NORTH LEVEL 3 N?
+
+### Context:
+Station UWB CASCADIA CC NORTH LEVEL 3 N
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at UWB CASCADIA CC NORTH LEVEL 3 N?
+
+### Context:
+Station ID: 173
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at CITY OF REDMOND CITY HALL DUAL?
+
+### Context:
+Station CITY OF REDMOND CITY HALL DUAL
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at CITY OF REDMOND CITY HALL DUAL?
+
+### Context:
+Station ID: 174
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at CITY OF REDMOND MOC #1 PUBLIC?
+
+### Context:
+Station CITY OF REDMOND MOC #1 PUBLIC
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at CITY OF REDMOND MOC #1 PUBLIC?
+
+### Context:
+Station ID: 175
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at WILLOWS LODGE WILLOWS #2?
+
+### Context:
+Station WILLOWS LODGE WILLOWS #2
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at WILLOWS LODGE WILLOWS #2?
+
+### Context:
+Station ID: 176
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at MGE PINNACLE HEALTH?
+
+### Context:
+Station MGE PINNACLE HEALTH
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at MGE PINNACLE HEALTH?
+
+### Context:
+Station ID: 177
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at MGE WILLY ST W?
+
+### Context:
+Station MGE WILLY ST W
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at MGE WILLY ST W?
+
+### Context:
+Station ID: 178
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Raleigh - Municipal Building?
+
+### Context:
+Station City of Raleigh - Municipal Building
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Raleigh - Municipal Building?
+
+### Context:
+Station ID: 179
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at City of Raleigh - Downtown?
+
+### Context:
+Station City of Raleigh - Downtown
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at City of Raleigh - Downtown?
+
+### Context:
+Station ID: 180
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Missouri University of Science and Technology - E3 Commons?
+
+### Context:
+Station Missouri University of Science and Technology - E3 Commons
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Missouri University of Science and Technology - E3 Commons?
+
+### Context:
+Station ID: 181
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Clay Cooley Nissan?
+
+### Context:
+Station Clay Cooley Nissan
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Clay Cooley Nissan?
+
+### Context:
+Station ID: 182
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Eversource Energy Park?
+
+### Context:
+Station Eversource Energy Park
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Eversource Energy Park?
+
+### Context:
+Station ID: 183
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Super 8 - Ukiah?
+
+### Context:
+Station Super 8 - Ukiah
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Super 8 - Ukiah?
+
+### Context:
+Station ID: 184
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at KEMET Corp?
+
+### Context:
+Station KEMET Corp
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at KEMET Corp?
+
+### Context:
+Station ID: 185
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Hotel Floyd?
+
+### Context:
+Station Hotel Floyd
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Hotel Floyd?
+
+### Context:
+Station ID: 186
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Oak Ridge Nissan?
+
+### Context:
+Station Oak Ridge Nissan
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Oak Ridge Nissan?
+
+### Context:
+Station ID: 187
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Newton Nissan South?
+
+### Context:
+Station Newton Nissan South
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Newton Nissan South?
+
+### Context:
+Station ID: 188
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at McGavock Nissan - Abilene?
+
+### Context:
+Station McGavock Nissan - Abilene
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at McGavock Nissan - Abilene?
+
+### Context:
+Station ID: 189
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at McGavock Nissan - Amarillo?
+
+### Context:
+Station McGavock Nissan - Amarillo
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at McGavock Nissan - Amarillo?
+
+### Context:
+Station ID: 190
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Don Davis Nissan?
+
+### Context:
+Station Don Davis Nissan
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Don Davis Nissan?
+
+### Context:
+Station ID: 191
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Town North Nissan?
+
+### Context:
+Station Town North Nissan
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Town North Nissan?
+
+### Context:
+Station ID: 192
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Baytown Nissan?
+
+### Context:
+Station Baytown Nissan
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Baytown Nissan?
+
+### Context:
+Station ID: 193
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Mike Smith Nissan?
+
+### Context:
+Station Mike Smith Nissan
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Mike Smith Nissan?
+
+### Context:
+Station ID: 194
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Grubbs Nissan?
+
+### Context:
+Station Grubbs Nissan
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Grubbs Nissan?
+
+### Context:
+Station ID: 195
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Douglass Nissan?
+
+### Context:
+Station Douglass Nissan
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Douglass Nissan?
+
+### Context:
+Station ID: 196
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Ed Hicks Nissan?
+
+### Context:
+Station Ed Hicks Nissan
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Ed Hicks Nissan?
+
+### Context:
+Station ID: 197
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Clay Cooley Nissan?
+
+### Context:
+Station Clay Cooley Nissan
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Clay Cooley Nissan?
+
+### Context:
+Station ID: 198
+
+### Response:
+AC Level 2 charging
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What connectors are available at Classic Nissan?
+
+### Context:
+Station Classic Nissan
+
+### Response:
+No connector information available
+
+Below is an instruction about EV charging. Write a response that appropriately completes the request.
+
+### Instruction:
+What type of charging is available at Classic Nissan?
+
+### Context:
+Station ID: 199
+
+### Response:
+AC Level 2 charging

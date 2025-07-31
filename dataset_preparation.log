@@ -1,0 +1,33 @@
+2025-07-30 15:44:47,255 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-30 15:52:39,715 - dataset_preparation.qa_generator - INFO - Loaded gpt2-medium on cpu
+2025-07-30 16:01:15,206 - __main__ - INFO - Initializing components...
+2025-07-30 16:01:16,783 - dataset_preparation.qa_generator - INFO - Loaded gpt2-medium on cpu
+2025-07-30 16:01:16,784 - __main__ - INFO - Starting data processing pipeline...
+2025-07-30 16:02:15,039 - __main__ - INFO - Generated 0 QA pairs
+2025-07-30 16:02:15,043 - __main__ - INFO - Validation: 0 valid, 0 invalid
+2025-07-30 16:02:15,045 - __main__ - INFO - Saved training data to data\training\ev_qa_dataset.txt
+2025-07-30 16:02:15,046 - __main__ - INFO - Saved quality report to data\training\quality_report.txt
+2025-07-30 16:02:15,046 - __main__ - INFO - Pipeline completed successfully!
+2025-07-30 16:17:27,555 - __main__ - INFO - Initializing components...
+2025-07-30 16:17:27,555 - __main__ - ERROR - Pipeline failed: EVQAGenerator.__init__() got an unexpected keyword argument 'use_gpt'
+Traceback (most recent call last):
+  File "D:\ev-charging-qa-pipeline\src\run_dataset_preparation.py", line 31, in main
+    qa_generator = EVQAGenerator(model_name="gpt2-medium", use_gpt=True)
+TypeError: EVQAGenerator.__init__() got an unexpected keyword argument 'use_gpt'
+2025-07-30 16:18:58,162 - __main__ - INFO - Initializing components...
+2025-07-30 16:18:59,335 - dataset_preparation.qa_generator - INFO - Loaded gpt2-medium on cpu
+2025-07-30 16:18:59,336 - __main__ - INFO - Starting data processing pipeline...
+2025-07-30 16:18:59,336 - dataset_preparation.qa_generator - ERROR - PDF processing failed: name 'json' is not defined
+2025-07-30 16:18:59,646 - __main__ - INFO - Generated 400 QA pairs
+2025-07-30 16:18:59,651 - __main__ - INFO - Validation: 400 valid, 0 invalid
+2025-07-30 16:18:59,677 - __main__ - INFO - Saved training data to data\training\ev_qa_dataset.txt
+2025-07-30 16:18:59,679 - __main__ - INFO - Saved quality report to data\training\quality_report.txt
+2025-07-30 16:18:59,679 - __main__ - INFO - Pipeline completed successfully!
+2025-07-30 16:23:08,000 - __main__ - INFO - Initializing components...
+2025-07-30 16:23:09,129 - dataset_preparation.qa_generator - INFO - Loaded gpt2-medium on cpu
+2025-07-30 16:23:09,129 - __main__ - INFO - Starting data processing pipeline...
+2025-07-30 16:25:24,680 - __main__ - INFO - Generated 402 QA pairs
+2025-07-30 16:25:24,690 - __main__ - INFO - Validation: 402 valid, 0 invalid
+2025-07-30 16:25:24,710 - __main__ - INFO - Saved training data to data\training\ev_qa_dataset.txt
+2025-07-30 16:25:24,711 - __main__ - INFO - Saved quality report to data\training\quality_report.txt
+2025-07-30 16:25:24,711 - __main__ - INFO - Pipeline completed successfully!
