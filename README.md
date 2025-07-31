@@ -1,5 +1,8 @@
 # 🔌 EV Charging QA Pipeline
 
+<img width="1261" height="1530" alt="deepseek_mermaid_20250730_3aa719" src="https://github.com/user-attachments/assets/ddb7c204-e91b-48b6-8a02-6fd8f39acaab" />
+
+
 [![CI/CD](https://github.com/MahmoudSalama7/ev-charging-qa-system/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/MahmoudSalama7/ev-charging-qa-system/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
@@ -31,24 +34,8 @@ python src/orchestration/workflow.py
 
 📂 Project Structure
 
-ev-charging-qa-system/
-├── config/               # Configuration files
-│   └── settings.py       # Main configuration
-├── data/                 # Data storage
-│   ├── raw/              # Raw collected data
-│   └── processed/        # Processed datasets
-├── models/               # Model files (Git LFS)
-├── src/                  # Source code
-│   ├── data_collection/  # Data collection modules
-│   ├── dataset_preparation/ # QA pair generation
-│   ├── fine_tuning/      # Model training
-│   ├── deployment/       # API serving
-│   └── orchestration/    # Workflow management
-├── tests/                # Test suite
-├── .github/workflows/    # CI/CD pipelines
-├── .env.example          # Environment template
-├── pyproject.toml        # Poetry config
-└── README.md             # This file
+<img width="418" height="368" alt="image" src="https://github.com/user-attachments/assets/62929399-6bc1-4242-b60c-2904b1b65a30" />
+
 
 🔧 Configuration
 Edit these files for setup:
